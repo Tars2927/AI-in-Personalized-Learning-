@@ -142,6 +142,7 @@ This project has a strong foundation with many possibilities for future enhancem
 
 -----
 ## Gallery 
+<img width="742" height="371" alt="try9" src="https://github.com/user-attachments/assets/4b31112c-6dc5-4303-a7fa-5c16795f48cd" />
 
 <img width="742" height="371" alt="try9" src="https://github.com/user-attachments/assets/872d4b44-96eb-43b9-b67f-b6750a3a04ae" />
 
