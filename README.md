@@ -118,6 +118,7 @@ Follow these instructions to set up and run the project on your local machine.
 
 -----
 
+
 ## 🏃 Usage
 
 Once the installation is complete, you can run the application with a single command:
@@ -140,6 +141,9 @@ This project has a strong foundation with many possibilities for future enhancem
   * **Advanced "What-If" Analysis:** Enhance the UI to better show how changing specific habits can impact the predicted outcome.
 
 -----
+## Gallery 
+
+<img width="742" height="371" alt="try9" src="https://github.com/user-attachments/assets/872d4b44-96eb-43b9-b67f-b6750a3a04ae" />
 
 ## 🙏 Acknowledgments
 
