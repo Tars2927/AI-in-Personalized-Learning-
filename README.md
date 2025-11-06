@@ -142,6 +142,8 @@ This project has a strong foundation with many possibilities for future enhancem
 
 -----
 ## Gallery 
+<img width="959" height="439" alt="try2" src="https://github.com/user-attachments/assets/24ab295e-8951-4f81-891f-0eb3ac43d96a" />
+
 <img width="773" height="427" alt="try3" src="https://github.com/user-attachments/assets/29a6dc1c-64ac-4546-a1cf-4cde4e06dd82" />
 
 <img width="729" height="409" alt="try5" src="https://github.com/user-attachments/assets/57716f41-7df0-423f-a6a1-c024d90c7666" />
@@ -151,8 +153,6 @@ This project has a strong foundation with many possibilities for future enhancem
 <img width="752" height="384" alt="try7" src="https://github.com/user-attachments/assets/e7028698-1807-4503-a7a2-6a5889c0da83" />
 
 <img width="739" height="386" alt="try8" src="https://github.com/user-attachments/assets/487d9d65-611d-4d8b-89db-59edd8999c00" />
-
-
 <img width="742" height="371" alt="try9" src="https://github.com/user-attachments/assets/872d4b44-96eb-43b9-b67f-b6750a3a04ae" />
 
 ## 🙏 Acknowledgments
